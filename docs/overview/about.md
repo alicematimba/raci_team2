@@ -11,7 +11,7 @@ The matrix covers the shared education development pipeline: activities that req
 !!! note "What's not in here — and why"
     Every role has responsibilities that fall entirely within their own domain. These do not appear in this RACI because they do not involve cross-team coordination. This is by design, not an omission.
 
-    - **Training Leads** carry significant work outside this pipeline: managing relationships with the scientific community, advising on domain strategy, contributing to institutional governance, and developing the knowledge base for their field.
+    - **Training Leads** carry significant work outside this pipeline: managing relationships with stakeholders, advising on domain strategy, contributing to institutional and programme governance, and developing the technical and scientific knowledge base to support effective training design.
     - **Education Developers, Technical Developers, and the Digital Learning Developer** similarly have areas of individual professional work — curriculum research, specialist system management, technical architecture decisions — that belong to them alone.
 
 ## How to use this document
