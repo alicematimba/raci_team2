@@ -30,7 +30,7 @@ The pipeline has nine stages, from strategic planning through to evaluation and 
     This matrix covers only the **shared education development pipeline** — the activities that require the whole team to work together. It does not represent the full scope of anyone's role.
 
     - Every role has responsibilities that fall entirely within their own domain and do not appear here, because they do not involve cross-team coordination. This is by design, not an omission.
-    - Training Leads, for example, carry significant work outside this pipeline: managing relationships with the scientific community, advising on domain strategy, contributing to institutional governance, and developing the knowledge base for their field.
+    - Training Leads, for example, arry significant work outside this pipeline: managing relationships with stakeholders, advising on domain strategy, contributing to learning and training programme governance, and developing the technical and scientific knowledge base to support effective training design.
     - Education Developers, Technical Developers, and the Digital Learning Developer similarly have areas of individual professional work — curriculum research, specialist system management, technical architecture decisions — that belong to them alone.
     - Job descriptions cover the full scope of each role. This matrix covers the shared part. The two are complementary: neither is a complete picture on its own.
 
