@@ -14,7 +14,7 @@ The matrix covers the shared education development pipeline: activities that req
     - **Training Leads** carry significant work outside this pipeline: managing relationships with stakeholders, advising on domain strategy, contributing to learning and training programme governance, and developing the technical and scientific knowledge base to support effective training design.
     - **Education Developers, Technical Developers, and the Digital Learning Developer** similarly have areas of individual professional work — curriculum research, specialist system management, technical architecture decisions — that belong to them alone.
 
-## How to use this document
+## How to use this framework
 
 Job descriptions cover the full scope of each role. This matrix covers the shared part. The two are complementary: neither is a complete picture on its own.
 
