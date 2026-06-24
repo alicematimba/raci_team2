@@ -1,0 +1,63 @@
+site_name: RACI in Practice — Learning Design & Delivery Pipeline
+site_description: RACI matrix examples along the Learning Design & Delivery pipeline, reviewed against role profiles
+site_author: Learning Design & Delivery Team
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.instant
+    - search.highlight
+    - search.suggest
+    - toc.integrate
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+markdown_extensions:
+  - admonition
+  - tables
+  - attr_list
+  - def_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Overview:
+    - About This RACI: overview/about.md
+    - RACI Key & Terminology: overview/key-and-terminology.md
+    - Team Structure & Interactions: overview/team-diagram.md
+  - Pipeline Stages:
+    - Stage 1 — Learning Strategy & Portfolio Planning: stages/stage-1.md
+    - Stage 2 — Stakeholder Engagement & Needs Analysis: stages/stage-2.md
+    - Stage 3 — Learning Design: stages/stage-3.md
+    - Stage 4 — Content & Resource Development: stages/stage-4.md
+    - Stage 5 — Technical Build & Infrastructure: stages/stage-5.md
+    - Stage 6 — Quality Assurance & Sign-off: stages/stage-6.md
+    - Stage 7 — Delivery: stages/stage-7.md
+    - Stage 8 — Evaluation & Continuous Improvement: stages/stage-8.md
+    - Stage 9 — External Partnerships & Institutional Relationships: stages/stage-9.md
+  - Scenarios:
+    - Scenario 7 — Multi-Element Training Event: scenarios/scenario-7.md
+  - Appendix:
+    - The Brief-to-Build Handoff: appendix/brief-to-build.md
+    - Escalation Pathways: appendix/escalation-pathways.md
